@@ -1,6 +1,7 @@
 # PixelCDandroidapp
 PixelCD offline music ANDROID APP
-라디오는 없음
+라디오는 없습니다 
+
 저는 이걸 파는 게 아니라, 재미로 하는 콘텐츠 제작자입니다: MUSE AI 메타로 만든 것
 (코딩 없음)
 기능으로는 자신만의 음악 플레이어 MP3 파일을 재생할 수 있습니다 
